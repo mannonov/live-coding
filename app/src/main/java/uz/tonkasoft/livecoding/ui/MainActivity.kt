@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // TODO: 1.add recyclerview to main_activity.xml, 2. Use ListAdapter class, DiffUtil, 3. ItemLayout, 4. add  project ViewBinding property Delegate github: kirich1409
+        // TODO: 1. add recyclerview to main_activity.xml, 2. Use ListAdapter class, DiffUtil, 3. ItemLayout, 4. add project ViewBinding property Delegate github: kirich1409
 
         mainViewModel.getBooks()
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871470223563",
+    "project_id": "live-coding-48cd0",
+    "storage_bucket": "live-coding-48cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871470223563:android:44ce8753bac4b538f84b4e",
+        "android_client_info": {
+          "package_name": "uz.tonkasoft.livecoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871470223563-meqm0jo358hs5t719gcjkk83f43pjv1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iG0-wZlYPAabeOlOARYwV6pY6YpR9ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871470223563-meqm0jo358hs5t719gcjkk83f43pjv1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
